@@ -1,1 +1,1 @@
-print("hello Worad")
+print("아이유 빈컵 좋다.")
